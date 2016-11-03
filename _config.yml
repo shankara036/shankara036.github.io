@@ -69,7 +69,8 @@ github:
 
 #Stackoverflow flair is optional
 stackoverflow:
-   profileurl: http://stackoverflow.com/users/6458371/sridhar-c?tab=profile
+   profileurl: http://stackoverflow.com/users/6458371/sridhar-c
+   flairimageurl: http://stackoverflow.com/users/flair/6458371.png
   
 #Mobile apps section is optional
 apps:
