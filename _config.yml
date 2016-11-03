@@ -35,8 +35,7 @@ roles:
    start: April 2016
    end: Ongoing
    employer: Accel Frontline Limited - A CAC holdings group company
-   description: Part of CTO office, an R&D division of the company working on cutting edge technologies.
-Provides the architectural consultancy and software design review across the organization.
+   description: Part of CTO office, an R&D division of the company working on cutting edge technologies. Provides the architectural consultancy and software design review across the organization.
          1. AWS 
          2. Cloud Native Application Architecture
          3. Microservice Architecture approach - Docker container
