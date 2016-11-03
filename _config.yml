@@ -44,7 +44,7 @@ roles:
    start: November 2013
    end: March 2016
    employer: MarketShare Infotech India Pvt Ltd a Neustar Company
-   description: Part of the Application Engineering team. Responsible for solving the production issues within the SLA. Fixing the production issues, worked on Change Requests during application releases.  Developed few API projects.Created a Sqoop script and implemented on the test and production environment which will load the data from Hive tables (HDFS) to the Oracle Database. Technologies worked: Java 1.7,Hibernate, REST API, RabbitMQ, Linux on Amazon EC2,MySQL,Oracle, Jira, Git , Stash, Sqoop.
+   description: Part of the Application Engineering team. Responsible for solving the production issues within the SLA. Fixing the production issues, worked on Change Requests during application releases.  Developed few API projects.Created a Sqoop script and implemented on the test and production environment which will load the data from Hive tables (HDFS) to the Oracle Database. Technologies worked - Java 1.7,Hibernate, REST API, RabbitMQ, Linux on Amazon EC2,MySQL,Oracle, Jira, Git , Stash, Sqoop.
 
  - title: Senior Engineer
    start: July 2011
