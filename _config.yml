@@ -1,7 +1,7 @@
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
-name: Rob Hinds
+title: Sridhar Chandrashekar
+twitter_username: @Sridharc20
+name: Sridhar Chandrashekar
 
 # Build settings
 markdown: kramdown
@@ -10,15 +10,15 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: Blog
-   url: http://automateddeveloper.blogspot.com/
+   url: https://sridharcblog.wordpress.com/
  - title: GitHub
-   url: https://github.com/robhinds
+   url: https://github.com/sridharc20
  - title: StackOverflow
    url: http://stackoverflow.com/users/258813/rhinds
  - title: DZone
    url: https://dzone.com/users/899489/rhinds.html
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
+   url: https://in.linkedin.com/in/sridharc20
 
 #Any buzzword skills you want to include
 skills:
