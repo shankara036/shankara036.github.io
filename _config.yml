@@ -85,7 +85,7 @@ apps:
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>JVM</strong>: I am experienced in a variety of Java API’s and frameworks. I have recently worked with Spring Boot, Netflix OSS stack in addition to others.  In my current role Groovy is the primary language used - and I am familiar with many of the languages features and quirks<br/><br/>
+   <strong>JVM</strong>: I am experienced in a variety of Java API’s and frameworks. I have recently worked with Spring Boot, Netflix OSS stack in addition to others.<br/><br/>
    <strong>Web Development</strong>: My server side web development experience has largely been based on the Java, Hibernate, Spring MVC framework and REST.<br/><br/>
    <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with Git, Maven, Gradle and Jenkins. <br/><br/>
    
