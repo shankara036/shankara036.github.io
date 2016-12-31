@@ -10,16 +10,16 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: Blog
-   url: https://sridharcblog.wordpress.com/
+   url: #https://sridharcblog.wordpress.com/
  - title: GitHub
-   url: https://github.com/shankara036
+   url: #https://github.com/shankara036
  - title: StackOverflow
-   url: http://stackoverflow.com/users/6458371/sridhar-c
+   url: #http://stackoverflow.com/users/6458371/sridhar-c
  - title: DZone
-   url: https://dzone.com/users/2785140/sridharc.html
+   url: #https://dzone.com/users/2785140/sridharc.html
    
  - title: LinkedIn
-   url: https://in.linkedin.com/in/sridharc20
+   url: https://in.linkedin.com/in/shankara036
 
 #Any buzzword skills you want to include
 skills:
@@ -37,7 +37,7 @@ skills:
 
 #Work experience is required
 roles:
- - title: Jr Technical Architect
+ - title: #Jr Technical Architect
    start: April 2016
    end: Ongoing
    employer: Accel Frontline Limited - A CAC holdings group company
