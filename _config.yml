@@ -1,7 +1,7 @@
 # Site settings
-title: Sridhar Chandrashekar
-twitter_username: Sridharc20
-name: Sridhar Chandrashekar
+title: Shankara Chandrashekar
+twitter_username: Shankara036
+name: Shankara Chandrashekar
 
 # Build settings
 markdown: kramdown
@@ -12,7 +12,7 @@ primarylinks:
  - title: Blog
    url: https://sridharcblog.wordpress.com/
  - title: GitHub
-   url: https://github.com/sridharc20
+   url: https://github.com/shankara036
  - title: StackOverflow
    url: http://stackoverflow.com/users/6458371/sridhar-c
  - title: DZone
